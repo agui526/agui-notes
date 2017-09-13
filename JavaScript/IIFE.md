@@ -88,7 +88,7 @@ void function() {
 `void`： 按运算符结合语句执行，返回 undefined。
 
 这几种的性能对比结果：
-![ ](C:\Users\a590098\Desktop\md.png)
+![](file:///C:\Users\a590098\Desktop\md.png)
 
 可见 `+` 性能最差（在Firefox下差距更明显），其他几种都差不多。不过IIFE只执行一遍，对js执行效率的影响特别小，使用哪种还是看个人爱好。
 
